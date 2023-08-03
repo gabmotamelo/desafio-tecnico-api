@@ -222,6 +222,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Java Version : 20
 - Maven
+- SET do seu DB:
+
+```properties
+spring.datasource.url= jdbc:${PROD_DB_HOST}://localhost:${PROD_DB_PORT}/${PROD_DB_NAME}
+spring.datasource.username=${PROD_DB_USERNAME}
+spring.datasource.password=${PROD_DB_PASSWORD}
+```
+
+
 
 #### 🎲 Rodando o Backend
 
