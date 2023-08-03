@@ -48,13 +48,13 @@
 
 - Diagrama Entidade Relacionamento:
 
-  ![DER](https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/d783b3b9-f63a-4ad1-9285-c615448a29d4)
+![DER](https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/ae3abd3b-828d-4521-9e87-5d3bcb976e54)
 
 ---
 
 - Modelo Entidade Relacionamento:
 
-  ![MER](https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/e511708f-21ea-4315-ad9c-c38084c1d76b)
+![MER](https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/f45facfd-8b1b-4ad2-b5d5-1bda1ed4e6bb)
 
 ---
 
@@ -194,7 +194,8 @@ VALUES (2, 'Erro B', '2023-08-03 14:45:00');
 
 ## 📑 Swagger Documentation:
 <br><br>
-![doc](https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/2e5455d9-45bb-4cc1-ab37-888dbe42145f)
+![doc](https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/0bace3cb-c47e-4fde-a340-b8d4a7f533ef)
+
 
 -   **[Swagger Sistema Bancário API](http://localhost:8080/swagger-ui/index.html#/)**
     <br><br>
@@ -254,12 +255,11 @@ $ mvn spring-boot:run
 ## 🦸 Autor
 
 <a >
- <img style="border-radius: 50%;" src="https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/b0e5085d-0fd0-4a4c-8c08-15c017f6e2d3" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/gabmotamelo/desafio-tecnico-api/assets/88755473/a5c3ba01-de86-4e46-9e35-9ed7b687571f" width="100px;" alt=""/>
  <br />
  <sub><b>Gabriel Mota Melo</b></sub></a> 
  <br/>
  <br/>
-
 
 Feito por Gabriel 👋🏽 [Entre em contato - LinkedIn!](https://www.linkedin.com/in/gabriel-mota-melo/)
 <a >
