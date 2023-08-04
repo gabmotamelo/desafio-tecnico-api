@@ -209,7 +209,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **Spring Framework - 3.1.2**
 -   **Lombok**
 -   **PostgreSQL**
--   **Mockito - (testes)**
+-   **Mockito - (testes unitários)**
 -   **Swagger - (documentação) 2.1.0**
 -   **Maven**
 
